@@ -1,0 +1,98 @@
+{
+  "lang": {
+    "label": "Language",
+    "uz": "Oʻzbekcha",
+    "en": "English",
+    "ru": "Русский"
+  },
+  "nav": {
+    "home": "Home",
+    "recipes": "Recipes",
+    "courses": "Our courses",
+    "chefs": "Chefs",
+    "history": "Our history",
+    "honorary": "Honorary members",
+    "leaders": "Leadership",
+    "address": "Location"
+  },
+  "hero": {
+    "d1": "Uzbekistan’s ",
+    "d2": "Cuisine",
+    "d3": " —",
+    "d4": " In every",
+    "d5": " bite, feel ",
+    "d6": "our homeland",
+    "m1": "Uzbekistan’s ",
+    "m2": "Cuisine",
+    "m3": " — ",
+    "m4": "In every",
+    "m5": " bite, ",
+    "m6": "feel ",
+    "m7": "our homeland",
+    "lead": "If culinary art inspires you and you are ready to try yourself as a chef, our courses give you the chance to learn from the most qualified mentors.",
+    "cta": "Enter the site"
+  },
+  "food": {
+    "headingBefore": "We feature ",
+    "headingHighlight": "over 1,000 recipes",
+    "headingAfter": "",
+    "close": "Close",
+    "dish1": "Laksa",
+    "dish2": "Lasagna",
+    "dish3": "Pasta",
+    "dish4": "Porcupine",
+    "dish5": "Shurpa"
+  },
+  "courses": {
+    "title": "Our courses",
+    "subtitle": "An ideal place for cooking enthusiasts. We wish you success in growing your knowledge and skills in the fields below and becoming a professional.",
+    "card1Title": "Confectionery",
+    "card1Desc": "Local confectionery products, sweets, and candy-making. It has developed since ancient times in Eastern countries and spread widely in the Middle Ages.",
+    "card2Title": "Chef courses",
+    "card2Desc": "Chefs prepare varied dishes from recipes: first courses, desserts, cold and hot appetizers, third courses and drinks, and know how to plate and serve food properly.",
+    "card3Title": "National cuisine",
+    "card3Desc": "Uzbek cuisine is one of the most colorful in Central Asia. Dishes are prepared here for true gourmets and those who appreciate Eastern hospitality."
+  },
+  "history": {
+    "title": "Our history",
+    "intro": "Uzbek national dishes have a centuries-long history; each reflects unique traditions and culture.",
+    "block1Title": "Introducing Uzbek national cuisine to the world!",
+    "block1Text": "Promoting Uzbek food, customs, and dining culture internationally, training world-class chefs, and developing the food system are modern priorities. Targeted measures are underway to improve the skills of chefs, confectioners, and waitstaff.",
+    "block2Title": "The freshest and tastiest recipes",
+    "block2Text": "Our latest recipes combine flavor and style. New ingredients and innovative approaches in each recipe help you discover new tastes. Cooking delicious, beautiful dishes is easier and more fun with us!",
+    "imgAlt": "Preparing national dishes"
+  },
+  "address": {
+    "titleOrange": "Our ",
+    "titleRest": "location",
+    "subtitle": "Republic of Uzbekistan, Tashkent, Mirzo Ulugbek district, Oltintepa, building 354",
+    "imgAlt": "Beshqozon"
+  },
+  "organizers": {
+    "title": "Organizers",
+    "imgAlt": "Organizer"
+  },
+  "partners": {
+    "before": "Our ",
+    "highlight": "partners"
+  },
+  "footer": {
+    "home": "Home",
+    "about": "About us",
+    "courses": "Our courses",
+    "chefs": "Chefs",
+    "history": "Our history",
+    "honorary": "Honorary members",
+    "leaders": "Leadership",
+    "address": "Location",
+    "phoneLabel": "phone",
+    "hoursTitle": "working hours",
+    "hoursLine1": "Monday–Friday:",
+    "hoursLine2": "9:00–18:00",
+    "hoursLine3": "Lunch: 13:00–14:00",
+    "fax": "Fax: +99871 266 78 00",
+    "contactTitle": "Address & contact",
+    "addressLine1": "Tashkent, Mirzo Ulugbek,",
+    "addressLine2": "Oltintepa st., building 354."
+  }
+}

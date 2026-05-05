@@ -1,0 +1,47 @@
+/* Linkning asosi */
+.nav-link {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 6px; /* Chiziqlar uchun joy */
+    text-decoration: none;
+}
+
+/* Birinchi chiziq (yuqoridagisi) */
+.nav-link::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 3px;
+    width: 0;
+    height: 2px;
+    background-color: white; /* Chiziq rangi */
+    transition: width 0.3s ease-in-out;
+}
+
+/* Ikkinchi chiziq (pastdagisi) */
+.nav-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 0;
+    height: 2px;
+    background-color: white;
+    transition: width 0.3s ease-in-out;
+    transition-delay: 0.15s; /* Ketma-ket chiqishi uchun kechikish */
+}
+
+/* Hover bo'lganda ikkalasi ham yoyiladi */
+.nav-link:hover::before,
+.nav-link:hover::after {
+    width: 100%;
+}
+
+/* Sichqoncha ketganda teskari tartibda yopilishi uchun */
+.nav-link:not(:hover)::before {
+    transition-delay: 0.15s;
+}
+
+.nav-link:not(:hover)::after {
+    transition-delay: 0s;
+}

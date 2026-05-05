@@ -1,0 +1,80 @@
+.headerHidden {
+    width: 100%;
+    background-image: url("../../../assets/Images/bagraound-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Planshet / past balandlik: nav ro‘yxati sig‘masa vertikal scroll */
+.headerHidden--overlay {
+    min-height: 0;
+}
+
+.headerHidden__scroll {
+    flex: 1 1 auto;
+    min-height: 0;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-y: contain;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+.headerHidden__top-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+.headerHidden__logo-link {
+    display: block; 
+    width: 120px;
+}
+.headerHidden__logo-image {
+    width: 100%;
+    height: auto;
+}       
+.headerHidden__close-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.headerHidden__close-button-icon {
+    width: 24px;
+    height: 24px;
+}
+.headerHidden__list {
+    list-style: none;           
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 24px;
+}
+.headerHidden__lists {
+    padding: 0 16px;        
+}
+.headerHidden__links {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+}
+.headerHidden__tel-link {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #000;        
+    font-size: 18px;
+    font-weight: 500;
+    padding: 12px 16px 8px;
+}
+/* .container {
+
+    width: 100%;
+    max-width: 1366px;
+    padding: 0 0px;
+    margin: 0 auto;
+    } */    

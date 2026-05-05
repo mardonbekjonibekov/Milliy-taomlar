@@ -1,0 +1,98 @@
+{
+  "lang": {
+    "label": "Til",
+    "uz": "Oʻzbekcha",
+    "en": "English",
+    "ru": "Русский"
+  },
+  "nav": {
+    "home": "Home",
+    "recipes": "Retseplar",
+    "courses": "Kurslarimiz",
+    "chefs": "Oshpazlar",
+    "history": "Tariximiz",
+    "honorary": "Faxriy-azolar",
+    "leaders": "Raxbarlarimiz",
+    "address": "Manzilimiz"
+  },
+  "hero": {
+    "d1": "O'zbekiston ",
+    "d2": "Taomlari",
+    "d3": " —",
+    "d4": " Har bir",
+    "d5": " Ta'mda Yurtimizni His ",
+    "d6": "Qiling",
+    "m1": "O'zbekiston ",
+    "m2": "Taomlari",
+    "m3": " — ",
+    "m4": "Har bir",
+    "m5": " Ta'mda ",
+    "m6": "Yurtimizni His ",
+    "m7": "Qiling",
+    "lead": "Agar oshpazlik san'ati sizni qiziqtirsa va o'zingizni oshpaz sifatida sinab ko'rishga tayyor bo'lsangiz, bizning kurslarimiz sizga eng malakali ustozlardan ta'lim olish imkonini beradi.",
+    "cta": "Saytga o'tish"
+  },
+  "food": {
+    "headingBefore": "Bizda ",
+    "headingHighlight": "1000 dan ortiq retseptlar",
+    "headingAfter": " mujassam",
+    "close": "Yopish",
+    "dish1": "Laksa",
+    "dish2": "Lasagna",
+    "dish3": "Pasta",
+    "dish4": "Porcupine",
+    "dish5": "Shorva"
+  },
+  "courses": {
+    "title": "Kurslarimiz",
+    "subtitle": "Oshpazlikni sevuvchilar uchun ideal maskan. Quyidagi sohalarda o'z bilim va ko'nikmalaringizni oshirib professional hodim bo'lib yetishishingizga tilakdoshmiz.",
+    "card1Title": "Qandolatchilik",
+    "card1Desc": "Mahalliy shakarpazlik mahsulotlari, mahalliy shirinliklar, qandqurslar tayyorlanadigan sohasi. Sharq mamlakatlarida qadimdan rivoj topib, ayniqsa, o'rta asrlarda keng tarqalgan",
+    "card2Title": "Oshpaz kurslari",
+    "card2Desc": "Oshpaz retseptlar bo'yicha turli xil taomlarni birinchi taomlar shirinliklar sovuq va issiq ishtahalar shuningdek uchinchi taomlar ichimlikla tayyorlaydi va pishirilgan ovqatni qanday tartibga solishni biladi.",
+    "card3Title": "Milliy taomlari",
+    "card3Desc": "O'zbek oshxonasi Markaziy Osiyodagi eng rang-barang taomlardan biridir. Bu yerda haqiqiy gurmeler va sharqona mehmondo'stlikni biluvchilar uchun taomlar tayyorlanadi."
+  },
+  "history": {
+    "title": "Tariximiz",
+    "intro": "O'zbek milliy taomlari uzoq asrlik tarixga ega bo'lib, ularning har biri o'ziga xos an'analar va madaniyatni o'zida aks ettiradi.",
+    "block1Title": "O'zbek milliy taomlarini dunyoga tanitish!",
+    "block1Text": "O‘zbek milliy taomlari, urf-odatlari va ovqatlanish madaniyatini xalqaro miqyosda targ‘ib qilish, jahon andozalari darajasidagi oshpazlar tayyorlash va umumiy ovqatlanish tizimini rivojlantirish bugungi kunning zamonaviy talabidir. Oshpazlar, qandolatchilar va ofitsiantlarning kasbiy saviyasini oshirish maqsadida maxsus tizim tashkil etish bo‘yicha tegishli chora-tadbirlar amalga oshirilmoqda.",
+    "block2Title": "Eng yangi va lazzatli ovqat retseptlari",
+    "block2Text": "Bizning to'plamimizdagi eng yangi retseptlar, ta'm va uslubni mukammal uyg'unlashtiradi. Har bir retseptda yangi ingredientlar va innovatsion yondoshuvlarni qo'llash orqali siz yangi ta'm tuyg'ularini kashf etasiz. Lazzatli va ajoyib ko'rinishdagi taomlarni tayyorlash biz bilan yanada oson va qiziqarli!",
+    "imgAlt": "Milliy taomlar tayyorlanishi"
+  },
+  "address": {
+    "titleOrange": "Bizning ",
+    "titleRest": "manzil",
+    "subtitle": "O'zbekiston Raspublikasi, Toshkent shahar, Mirzo Ulug'bek tumani, Oltintepa, 354-uy",
+    "imgAlt": "Beshqozon"
+  },
+  "organizers": {
+    "title": "Tashkilotchilar",
+    "imgAlt": "Tashkilotchi"
+  },
+  "partners": {
+    "before": "Bizning ",
+    "highlight": "hamkorlar"
+  },
+  "footer": {
+    "home": "Home",
+    "about": "Biz haqimizda",
+    "courses": "Kurslarimiz",
+    "chefs": "Oshpazlar",
+    "history": "Tariximiz",
+    "honorary": "Faxriy azolar",
+    "leaders": "raxbarlarimiz",
+    "address": "Manzilimiz",
+    "phoneLabel": "telefon-raqam",
+    "hoursTitle": "ish-vaqti",
+    "hoursLine1": "dushanbadan-jumagacha:",
+    "hoursLine2": "9:00-18:00",
+    "hoursLine3": "Tushlik: 13:00-14:00",
+    "fax": "Faks: +99871 266 78 00",
+    "contactTitle": "Manzil-va biz bilan bog‘lanish",
+    "addressLine1": "Toshkent, Mirzo Ulug‘bek,",
+    "addressLine2": "Kucha. Oltintepa, 354-uy."
+  }
+}

@@ -1,0 +1,55 @@
+/* Asosiy konteyner uchun */
+.address-container {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+@media (min-width: 1024px) {
+    .address-container {
+        flex-direction: row;
+        gap:0px;
+    }
+
+}
+
+/* Xarita vidjeti uchun maxsus konteyner */
+.map-wrapper {
+    width: 100%;
+    max-width: 100%;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+    gap:0px;
+}
+
+.map-iframe {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #e6e6e6;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+
+/* Yandex havolasi uchun */
+.map-link {
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #b3b3b3;
+    font-size: 10px;
+    font-family: 'YS Text', sans-serif;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    max-height: 14px;
+    white-space: nowrap;
+    padding: 0 16px;
+}

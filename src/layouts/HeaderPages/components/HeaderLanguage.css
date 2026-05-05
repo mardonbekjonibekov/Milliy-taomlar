@@ -1,0 +1,14 @@
+.headerLanguage__dropdown {
+  animation: headerLanguage-fade 0.15s ease-out;
+}
+
+@keyframes headerLanguage-fade {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
