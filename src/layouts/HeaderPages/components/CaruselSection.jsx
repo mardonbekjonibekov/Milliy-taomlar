@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Abdullah_Sheraliyev from "../../../assets/Images/Abdullah_Sheraliyev.png"
-import AliVali from "../../../assets/Images/Ali-Vali.png"
+import AliVali from "../../../assets/Images/Ali_vali.png"
 import GaniShodiyev from "../../../assets/Images/Gani-Shodiyev.png"
 import ZuhraOpa from "../../../assets/Images/Zuhra-opa.png"
 import Sardorbek from "../../../assets/Images/Sardorbek.png"
@@ -13,17 +13,17 @@ import 'swiper/css/pagination';
 
 const chefs = [
     { id: 1, name: "Abdullah Sheraliyev", role: "Bosh oshpaz", img: Abdullah_Sheraliyev, bio: "20 yillik tajribaga ega usta oshpaz." },
-    { id: 2, name: "Ali_Vali", role: "Oshpaz", img: AliVali, bio: "Yevropa taomlari bo'yicha mutaxassis." },
+    { id: 2, name: "Ali_vali", role: "Oshpaz", img: AliVali, bio: "Yevropa taomlari bo'yicha mutaxassis." },
     { id: 3, name: "G'ani Shodiyev", role: "Kanditer", img: GaniShodiyev, bio: "Shirinliklar va desertlar ustasi." },
     { id: 4, name: "Zuhra opa", role: "Milliy taomlar", img: ZuhraOpa, bio: "O'zbek milliy taomlarining haqiqiy bilimdoni." },
     { id: 5, name: "Sardorbek", role: "Povar", img: Sardorbek, bio: "Zamonaviy food-art ustasi." },
     { id: 1, name: "Abdullah Sheraliyev", role: "Bosh oshpaz", img: Abdullah_Sheraliyev, bio: "20 yillik tajribaga ega usta oshpaz." },
-    { id: 2, name: "Ali_Vali", role: "Oshpaz", img: AliVali, bio: "Yevropa taomlari bo'yicha mutaxassis." },
+    { id: 2, name: "Ali_vali", role: "Oshpaz", img: AliVali, bio: "Yevropa taomlari bo'yicha mutaxassis." },
     { id: 3, name: "G'ani Shodiyev", role: "Kanditer", img: GaniShodiyev, bio: "Shirinliklar va desertlar ustasi." },
     { id: 4, name: "Zuhra opa", role: "Milliy taomlar", img: ZuhraOpa, bio: "O'zbek milliy taomlarining haqiqiy bilimdoni." },
     { id: 5, name: "Sardorbek", role: "Povar", img: Sardorbek, bio: "Zamonaviy food-art ustasi." },
     { id: 1, name: "Abdullah Sheraliyev", role: "Bosh oshpaz", img: Abdullah_Sheraliyev, bio: "20 yillik tajribaga ega usta oshpaz." },
-    { id: 2, name: "Ali_Vali", role: "Oshpaz", img: AliVali, bio: "Yevropa taomlari bo'yicha mutaxassis." },
+    { id: 2, name: "Ali_vali", role: "Oshpaz", img: AliVali, bio: "Yevropa taomlari bo'yicha mutaxassis." },
     { id: 3, name: "G'ani Shodiyev", role: "Kanditer", img: GaniShodiyev, bio: "Shirinliklar va desertlar ustasi." },
     { id: 4, name: "Zuhra opa", role: "Milliy taomlar", img: ZuhraOpa, bio: "O'zbek milliy taomlarining haqiqiy bilimdoni." },
     { id: 5, name: "Sardorbek", role: "Povar", img: Sardorbek, bio: "Zamonaviy food-art ustasi." },
